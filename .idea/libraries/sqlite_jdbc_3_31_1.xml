@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.31.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/sqlite-jdbc-3.31.1.jar!/" />
+      <root url="file://$path_to_javafx$" />
+      <root url="jar://$USER_HOME$/Desktop/jfoenix-9.0.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$path_to_javafx$" recursive="false" />
+  </library>
+</component>
