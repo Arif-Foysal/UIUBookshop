@@ -1,4 +1,4 @@
-# Store Management System
+# BookShop Management System
 
 The **Store Management System** is a JavaFX application that offers essential CRUD (Create, Read, Update, Delete) functionalities for managing a physical store's operations digitally. This application is designed to help store owners and clients streamline their everyday activities efficiently.
 
